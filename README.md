@@ -9,6 +9,12 @@ AtliQ Hardware and discuss its business model. It is a consumer goods electronic
 
 Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work. As a data anayst we have to provide insights to management to make data driven decisions to increase companies performance.
 
+### Task:
+You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+- Create the metrics according to the metric list.
+- Create a dashboard according to the mock-up provided by stakeholders.
+- Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
 ## Data modelling
 ![Data modelling 2](https://user-images.githubusercontent.com/93145713/196187462-e2f3b450-398c-49b0-ac9f-4926479a48b2.png)
 
